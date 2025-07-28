@@ -1,13 +1,10 @@
 # Header Comment
-# Name:                 assignment2b.py
+# Name:                 assignment2c.py
 # Author:               Johnny Touch
-# Date Created:         July 14, 2025
-# Date Last Modified:   July 17, 2025
+# Date Created:         July 28, 2025
+# Date Last Modified:   , 2025
 
-# Purpose: The purpose of this assignment is to make modifications to assignment2a
-# and includes refactoring code to include functions, integrating dictionaries,
-# adding a delivery feature, adding a tip feature, and implementing input
-# validation.
+# Purpose:
 
 # Contant Variables
 student_discount = 0.1
